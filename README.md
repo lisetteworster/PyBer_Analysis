@@ -10,5 +10,4 @@
 		-the opposite is true for "urban" that time is sporadic but eventually increases for the average fare per 			driver
 		-total fare is at peak at the end of February 2019.
 
-<a href="https://github.com/lisetteworster/pyber_analysis/resources/pyber_fare_summary.png
-"target="_blank"><img src="https://github.com/lisetteworster/pyber_analysis/resources/pyber_fare_summary.png"
+![](resources/pyber_fare_summary.png)
